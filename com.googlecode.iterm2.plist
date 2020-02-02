@@ -467,7 +467,7 @@
 	<key>NSWindow Frame SharedPreferences</key>
 	<string>612 610 796 486 0 0 1920 1177 </string>
 	<key>NSWindow Frame iTerm Window 0</key>
-	<string>103 63 1610 1083 0 0 1920 1177 </string>
+	<string>226 94 1610 1083 0 0 1920 1177 </string>
 	<key>NSWindow Frame iTerm Window 1</key>
 	<string>247 132 570 452 0 0 1920 1177 </string>
 	<key>New Bookmarks</key>
@@ -1466,7 +1466,7 @@
 	<key>NoSyncInstallationId</key>
 	<string>924CA262-C3C9-4701-95C7-538E5F1F4EF8</string>
 	<key>NoSyncLaunchExperienceControllerRunCount</key>
-	<integer>71</integer>
+	<integer>92</integer>
 	<key>NoSyncNeverRemindPrefsChangesLostForFile</key>
 	<true/>
 	<key>NoSyncNeverRemindPrefsChangesLostForFile_selection</key>
@@ -2257,7 +2257,7 @@
 	<key>SUHasLaunchedBefore</key>
 	<true/>
 	<key>SULastCheckTime</key>
-	<date>2020-01-08T21:53:57Z</date>
+	<date>2020-02-02T11:40:07Z</date>
 	<key>SUSendProfileInfo</key>
 	<false/>
 	<key>SUUpdateRelaunchingMarker</key>
